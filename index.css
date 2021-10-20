@@ -1,8 +1,8 @@
-body {
-    min-height: 3000px;
-}
-
 .jumbotron {
     padding-top: 2rem;
-    background-color: #979799;
+    background-color: #acacaf;
+}
+
+#favourite {
+    background-color: #acacaf;
 }
