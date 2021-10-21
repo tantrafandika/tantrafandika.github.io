@@ -1,8 +1,24 @@
 .jumbotron {
-    padding-top: 2rem;
+    padding-top: 6rem;
     background-color: #acacaf;
 }
 
 #favourite {
     background-color: #acacaf;
+}
+.tantra {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+#contact {
+    background-color: #212529;
+    font-style: oblique;
+    font-weight: bold;
+    padding-bottom: 1rem;
+}
+
+section {
+    padding-top: 5rem;
 }
